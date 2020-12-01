@@ -28,7 +28,6 @@ body{
 .navigation__item {
     list-style: none;
     transition: transform 0.3s ease;
-
 }
 .navigation__item:hover{
     transform: scale(1.2);

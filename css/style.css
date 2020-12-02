@@ -135,7 +135,7 @@ body{
 .button {
     overflow: hidden;
     padding: 12px 26px;
-    color: inherit;
+    color: #000;
     background-color: transparent;
     border: 1px solid #fff;
     border-radius: 40px;
